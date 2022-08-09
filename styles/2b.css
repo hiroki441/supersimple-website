@@ -1,0 +1,54 @@
+.class1 {
+  color: rgb(88, 194, 255);
+}
+.class1:hover {
+  opacity: 0.7;
+}
+.Shoes {
+  color: black;
+  font-size: 35px;
+  font-weight: bolder;
+}
+.price {
+  color: rgb(102, 161, 13);
+  font-weight: bolder;
+  font-size: 21px;
+}
+.delivery {
+  font-size: 21px;
+}
+.buy-button1 {
+  background-color: rgb(233, 220, 39);
+  color: black;
+  border: none;
+  width: 130px;
+  height: 36px;
+  border-radius: 20px;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s, opacity o0.15s;
+}
+.buy-button1:hover {
+  background-color: rgb(194, 183, 37);
+}
+.buy-button1:active {
+  opacity: 0.7;
+}
+.buy-button2 {
+  background-color: rgb(233, 163, 35);
+  color: black;
+  border: none;
+  width: 130px;
+  height: 36px;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+.buy-button2:hover {
+  background-color: rgb(255, 179, 38);
+}
+.buy-button2:active {
+  opacity: 0.8;
+}

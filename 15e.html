@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .body {
+        height: 3000px;
+      }
+
+      .sweat-pic-container {
+        position: relative;
+        display: inline-block;
+      }
+
+      .sweat-pic {
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+      }
+
+      .discount-number {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 15px;
+        right: 0;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        font-family: Arial;
+      }
+
+      .white-container {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        width: 300px;
+        height: 100px;
+        background-color: rgba(255, 255, 255, 0.8);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .add-button {
+        background-color: white;
+        border-style: solid;
+        border-width: 1px;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="sweat-pic-container">
+      <img class="sweat-pic" src="thumbnails/drewhouse-sweat.webp" />
+      <div class="discount-number">20% OFF</div>
+      <div class="white-container">
+        <div>
+          <button class="add-button">Add to Cart</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

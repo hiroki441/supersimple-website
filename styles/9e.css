@@ -1,0 +1,37 @@
+.justin {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 100px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.tweet {
+  width: 300px;
+  font-size: 16px;
+  border: none;
+  vertical-align: middle;
+}
+.button {
+  font-size: 16px;
+  background-color: rgb(22, 156, 233);
+  color: white;
+  font-weight: bolder;
+  border: none;
+  border-radius: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  vertical-align: middle;
+}
+.card {
+  width: 450px;
+  padding-top: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  box-shadow: 0px 0px 6px rgb(0, 0, 0.3);
+}

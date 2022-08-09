@@ -1,0 +1,15 @@
+.question {
+  font-family: arial;
+  padding-left: 20px;
+}
+.button-yes {
+  margin-left: 20px;
+}
+
+.customer-service {
+  width: 325px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(197, 194, 194);
+  padding-bottom: 20px;
+}

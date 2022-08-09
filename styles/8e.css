@@ -1,0 +1,31 @@
+     input{  font-size: 16px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 6px;
+      border-radius: 5px;
+      border: solid;
+      border-width: 1px;
+      border-color: rgb(180, 178, 178);
+      margin-bottom: 10px;
+}
+.first-name{
+  width: 110px;
+}
+.last-name{
+  width: 110px;
+}
+      
+      .email {
+        display: block;
+        width: 235px;
+      }
+      .button {
+        background-color: rgb(9, 113, 216);
+        width: 245px;
+        color: white;
+        font-weight: bold;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        border-radius: 7px;
+        border: none;
+      }

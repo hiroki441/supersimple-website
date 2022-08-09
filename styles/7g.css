@@ -1,0 +1,28 @@
+.justin {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 100px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.tweet {
+  font-family: arial;
+  color: gray;
+  vertical-align: middle;
+  border: none;
+  width: 300px;
+}
+.button {
+  background-color: rgb(41, 168, 247);
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 20px;
+  vertical-align: middle;
+}

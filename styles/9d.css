@@ -1,0 +1,25 @@
+p {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.card {
+  width: 355px;
+  background-color: rgb(28, 28, 28);
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.title {
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+
+}
+.sub-title {
+  color: rgb(104, 101, 101);
+  font-size: 14px;
+
+}

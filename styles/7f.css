@@ -1,0 +1,35 @@
+p {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.email {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 5px;
+}
+.search {
+  width: 350px;
+  height: 28px;
+  border-width: 1.5px;
+  border-radius: 4px;
+  border: solid;
+  margin-bottom: 20px;
+}
+.join {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 15px;
+}
+.button {
+  font-size: 20px;
+  color: white;
+  background-color: rgba(11, 91, 196, 0.963);
+  border: none;
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 360px;
+}

@@ -1,0 +1,9 @@
+.name,
+.email {
+  display: block;
+  color: gray;
+  font-size: 17px;
+}
+.name {
+  margin-bottom: 3px;
+}

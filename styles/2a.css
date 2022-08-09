@@ -1,0 +1,85 @@
+.uber-button {
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 120px;
+  height: 42px;
+  transition: opacity 0.15s;
+}
+.uber-button:hover {
+  opacity: 0.8;
+}
+.uber-button:active {
+  opacity: 0.4;
+}
+.amazon-button {
+  background-color: rgba(243, 232, 14, 0.863);
+  color: black;
+  border: none;
+  width: 200px;
+  height: 42px;
+  border-radius: 45px;
+  font-size: 16px;
+  font-weight: 20px;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.amazon-button:hover {
+  background-color: rgba(243, 197, 14, 0.863);
+}
+.giyhub-button {
+  background-color: rgb(116, 200, 100);
+  color: white;
+  border: none;
+  width: 104px;
+  height: 42px;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 10px;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+.giyhub-button:hover {
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.15);
+}
+.bootstrap-button1 {
+  background-color: rgba(96, 40, 161, 0.628);
+  color: white;
+  border: none;
+  width: 116px;
+  height: 42px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 15px;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.bootstrap-button1:hover {
+  background-color: rgba(65, 7, 131, 0.617);
+}
+.bootstrap-button2 {
+  background-color: white;
+  color: rgba(81, 81, 81, 0.602);
+  border-color: rgba(82, 81, 81, 0.575);
+  border-style: solid;
+  border-width: 1px;
+  width: 116px;
+  height: 42px;
+  border-radius: 2px;
+  margin-left: 4px;
+  font-size: 15px;
+  font-weight: bolder;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+}
+.bootstrap-button2:hover {
+  background-color: rgba(82, 81, 81, 0.575);
+  color: white;
+}
+.bootstrap-button2:active {
+  opacity: 0.8;
+}
