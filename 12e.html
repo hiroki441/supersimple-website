@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      div {
+        font-family: Arial;
+      }
+      .container {
+        width: 300px;
+        border: solid;
+        border-width: 1px;
+        border-color: rgb(171, 170, 170);
+        border-radius: 6px;
+      }
+      .flexbox {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 6px;
+        padding-right: 6px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        align-items: center;
+      }
+      .number {
+        background-color: rgb(4, 96, 217);
+        color: white;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 20px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="flexbox">
+        <div class="category">Home</div>
+        <div class="number">14</div>
+      </div>
+
+      <div class="flexbox">
+        <div class="category">Notifications</div>
+        <div class="number">3</div>
+      </div>
+
+      <div class="flexbox">
+        <div class="category">Messages</div>
+        <div class="number">5</div>
+      </div>
+    </div>
+  </body>
+</html>
